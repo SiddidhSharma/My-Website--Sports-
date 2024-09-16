@@ -1,0 +1,62 @@
+#Soccer {
+    color: white;
+    background-color: darkblue;
+}
+
+.Hockey {
+    color: yellow;
+    background-color: red;
+}
+
+#P1 {
+    background-color: lightblue;
+}
+
+#P2 {
+    background-color: yellow;
+
+}
+
+#P3 {
+    background-color: green;
+}
+
+.Cricket {
+    background-color: lightgreen;
+}
+
+#title {
+    color: #000000;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 14px 2px;
+    text-align: center;
+    font-size: 50px;
+}
+#imgfloat1 {
+    float: right;
+}
+
+#imgfloat2 {
+    float: left;
+}
+.relative{
+    position: relative;
+    left: 25px;
+    border: 3px solid black;
+}
+.fixed {
+    position: fixed;
+    left: 25px;
+    border: 3px solid black;
+}
+.absolute {
+        position: absolute;
+        left: 25px;
+        border: 3px solid black;
+}
+.static {
+        position: static;
+        left: 25px;
+        border: 3px solid black;
+}
